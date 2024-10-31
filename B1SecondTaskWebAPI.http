@@ -1,0 +1,6 @@
+@B1SecondTaskWebAPI_HostAddress = http://localhost:5183
+
+GET {{B1SecondTaskWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
